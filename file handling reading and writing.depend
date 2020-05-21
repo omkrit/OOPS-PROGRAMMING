@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571636536 source:e:\c++ program\oops\file handling reading and writing\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571540071 source:e:\c++ program\oops\overloaded memory management operator\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
